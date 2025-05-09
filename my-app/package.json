@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://2236914.github.io/meowww",
+  "homepage": "https://peytanf.github.io/meow",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
